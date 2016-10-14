@@ -1,12 +1,8 @@
 {
-  "name": "gauge.js",
+  "name": "brexis.gauge.js",
   "version": "1.2.2",
   "description": "100% native and cool looking animated JavaScript/CoffeScript gauge",
-  "main": [
-    "dist/gauge.js",
-    "dist/gauge.min.js",
-    "dist/gauge.coffee"
-  ],
+  "main": "dist/gauge.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
