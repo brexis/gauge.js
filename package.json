@@ -1,0 +1,27 @@
+{
+  "name": "gauge.js",
+  "version": "1.2.1",
+  "description": "100% native and cool looking animated JavaScript/CoffeScript gauge",
+  "main": [
+    "dist/gauge.js",
+    "dist/gauge.min.js",
+    "dist/gauge.coffee"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brexis/gauge.js.git"
+  },
+  "keywords": [
+    "gauge",
+    "gauge.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brexis/gauge.js/issues"
+  },
+  "homepage": "https://github.com/brexis/gauge.js#readme"
+}
