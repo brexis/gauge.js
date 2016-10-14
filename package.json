@@ -1,6 +1,6 @@
 {
   "name": "gauge.js",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "100% native and cool looking animated JavaScript/CoffeScript gauge",
   "main": [
     "dist/gauge.js",
